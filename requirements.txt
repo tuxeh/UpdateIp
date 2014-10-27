@@ -1,1 +1,2 @@
 requests>=2.4.3
+pyrax>=1.9.2
